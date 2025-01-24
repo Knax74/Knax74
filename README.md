@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌠Currently working on RestAPI's
+🌠Currently working on REST API
 
 
 # 💻 Tech Stack:
