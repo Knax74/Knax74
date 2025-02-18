@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 Currently working on REST API<br>⚙️ Learning Frontend
+⚙️ Learning Frontend
 
 
 # 💻 Tech Stack:
